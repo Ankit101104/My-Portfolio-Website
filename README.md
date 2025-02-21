@@ -1,4 +1,6 @@
 # My Portfolio Website 🌐  
+![Portfolio Priview](ui.png)
+
 
 Welcome to the repository for my **Portfolio Website**! This project showcases my skills, experience, and projects as a web developer. The website is designed to be visually appealing, user-friendly, and fully responsive, ensuring a seamless experience across all devices.  
 
